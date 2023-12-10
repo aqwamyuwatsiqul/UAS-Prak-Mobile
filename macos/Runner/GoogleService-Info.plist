@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCwRUJ44KQYPaBV6CivFUs_o_KXw3I5ohM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>467731991711</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.projectUas.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>project-uas-mobile-d8f10</string>
+	<key>STORAGE_BUCKET</key>
+	<string>project-uas-mobile-d8f10.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:467731991711:ios:1bb3b7b0a32ad606bda6aa</string>
+</dict>
+</plist>
